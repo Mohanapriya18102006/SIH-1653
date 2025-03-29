@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 29-03-2025
+## Register Number: 212224220065
+## Name: MOHANA PRIYA R
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -12,15 +12,49 @@ Ministry of Defence
 
 ## Idea
 
+1.Nearest E-Waste Facility Locator: Use Geocoding AI to find nearby e-waste facilities based on the user's current location. Implement image recognition to categorize e-waste when users upload photos, suggesting the appropriate recycling facility.
+
+2.Virtual Assistant: Offer a virtual assistant that provides guidance on proper e-waste disposal methods and data wiping techniques for devices with sensitive information.
+
+3.Educational Pop-ups: Display educational pop-ups to raise awareness about the harmful effects of e-waste on the environment and human health.
+
+4.Reward Points System: Introduce a reward points system where users earn points for each e-waste disposal, encouraging participation in recycling programs.
+
+5.Real-time Analytics Dashboard: Provide e-waste facilities with a dashboard showcasing real-time analytics and insights, including recycling rates and energy savings, to help users understand their impact on the environment.
+
 
 ## Proposed Solution / Architecture Diagram
+
+![Screenshot 2025-03-29 100915](https://github.com/user-attachments/assets/95e3713f-9c17-4a84-972f-2c05e8d38700)
+
 
 
 ## Use Cases
 
+![Screenshot 2025-03-29 101929](https://github.com/user-attachments/assets/9f705685-1355-42da-bbf6-2f1453b457d1)
+
+
 
 ## Technology Stack
 
+React.js
+
+Node.js
+
+PostgreSQL
+
+Google maps
+
+Firebox Authenticator
+
+Git , Postman or Insomnia
+
 
 ## Dependencies
+
+Mapping service- 10 days
+
+Data collection- 10 days
+
+budget- rs.50,000
 
